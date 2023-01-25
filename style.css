@@ -10,6 +10,8 @@ body {
     align-items: center;
     padding: 20px 10px;
     border-radius: 5px;
+    width: 300px;
+    margin: 10px auto;
 }
 
 ul li {
