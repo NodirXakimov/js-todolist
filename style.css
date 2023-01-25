@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+.container {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    border-radius: 5px;
+}
+
+ul li {
+    background-color: lightblue;
+    list-style: none;
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px 10px;
+}
+input:focus {
+    outline: none;
+}
